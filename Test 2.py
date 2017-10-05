@@ -18,16 +18,8 @@ else:
   print "I see sounds about right"
   
 retire = 60 - age
-  
-time.sleep(1)
-
-print "so that would mean that your %s from retiring" retire
-
-
-time.sleep(1)
-
-retire = 60 - age
-  
+ 
+ 
 time.sleep(1)
 
 print ("so that would mean that your %s years from retiring;" % retire)
